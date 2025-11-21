@@ -18,7 +18,7 @@ Project Members -
 ### <ins>Funding details<ins>
 
 This work is supported by the prestigious [`Discovery Early Career Researcher Award (DECRA)`
-](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) fellowship by [`Australian Research Council (ARC)`](https://www.arc.gov.au/) `[Grant no. DE230100049 Project: Towards automated Australian Sign Language translation]`.
+](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) fellowship by [`Australian Research Council (ARC)`](https://www.arc.gov.au/) `[Grant no. DE230100049 | Project: Towards automated Australian Sign Language translation]`.
 
 <p align="center">
     <img width="900" src="assets/result.gif" alt="Material Bread logo">
