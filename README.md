@@ -5,6 +5,8 @@
 
 ![My Image](assets/teaser.png)
 
+The official repository of the paper with supplementary: [![DexAvatar]](https://arxiv.org/abs/2512.21054) | 
+
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
@@ -71,4 +73,30 @@ https://github.com/user-attachments/assets/7b2cd130-b4ad-4215-a04e-d5ec99d2637a
 ### Gaussian Noise cases
 
 https://github.com/user-attachments/assets/b327500a-c972-4cfc-a02d-4d18e1632b92
+
+##  Citation 
+
+If you find our work (i.e., the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
+
+~~~
+@article{kundu2025dexavatar,
+  title={DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors},
+  author={Kundu, Kaustubh and Barua, Hrishav Bakul and Robertson-Bell, Lucy and Cai, Zhixi and Stefanov, Kalin},
+  journal={arXiv preprint arXiv:2512.21054},
+  year={2025}
+}
+~~~
+
+## License and Copyright
+
+
+~~~
+----------------------------------------------------------------------------------------
+Copyright 2025 | All the authors and contributors of this repository as mentioned above.
+----------------------------------------------------------------------------------------
+
+~~~
+
+Please check the [License](LICENSE) Agreement.
+
 
