@@ -5,7 +5,7 @@
 
 ![My Image](assets/teaser.png)
 
-The official repository of the paper with supplementary: [DexAvatar](https://arxiv.org/abs/2512.21054) | 
+The official repository of the paper with supplementary: [DexAvatar](https://arxiv.org/abs/2512.21054)
 
 ## About the project
 
