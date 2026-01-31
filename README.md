@@ -55,14 +55,14 @@ of-the-art.
 
 ![My Image](assets/DexAvatar.png)
 
-### Qualitative Results
+## Qualitative Results
 
 
 
 https://github.com/user-attachments/assets/923c3181-ecbc-47e0-88bb-d355f7280390
 
 
-#### Motion blur cases
+### Motion blur cases
 
 https://github.com/user-attachments/assets/08c6b2c0-4d59-4d86-afbc-8dd045cf41b5
 
