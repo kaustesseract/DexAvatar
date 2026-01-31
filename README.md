@@ -55,7 +55,7 @@ of-the-art.
 
 ![My Image](assets/DexAvatar.png)
 
-## Qualitative Results
+## Qualitative Results (check out the videos!!)
 
 
 
