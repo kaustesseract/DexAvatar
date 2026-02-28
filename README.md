@@ -23,12 +23,12 @@ The folder structure should be as follows:
 data/
 └── images_sgnify/
     ├── sign1/
-    │   └── Images/
+    │   └── images/
     │       ├── Img1.png
     │       ├── Img2.png
     │       └── ...
     ├── sign2/
-    │   └── Images/
+    │   └── images/
     │       ├── Img1.png
     │       ├── Img2.png
     │       └── ...
