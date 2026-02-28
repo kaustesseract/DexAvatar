@@ -40,7 +40,7 @@ The sign segmentations and the corresponding classes for each sign are already p
 **For Sapiens**
 
 
-Install sapiens lite from the original sapiens github [repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions.  
+Install sapiens lite from the original sapiens [github repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions.  
 
 ~~~
 sapiens/
@@ -67,7 +67,7 @@ bash scripts/bug_fix.sh
 
 ~~~
 
-Please download the following checkpoints from the google drive [link](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw)
+Please download the following checkpoints from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw)
 ~~~
 checkpoints/
 ├── smpler_x_h32.pth.tar
