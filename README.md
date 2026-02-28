@@ -16,20 +16,18 @@ bash scripts/env_install.sh
 bash scripts/bug_fix_dexavatar.sh
 conda deactivate
 ~~~
+Download the signfy frames, from [this link](https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. 
 
-~~~
-Download the signfy frames, from (https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. 
 The folder structure should be 
-	data
-images_sgnify
-images
-sign1
-sign2
+~~~
+
 ……….
-The sign segmentations and the corresponding classes for each sign are already present in the ./data folder for SGNify dataset. If you want to have your own sign segmentations and classes for each sign, please generate them from the previous work https://github.com/MPForte/SGNify
 
 
 ~~~
+
+The sign segmentations and the corresponding classes for each sign are already present in the ./data folder for SGNify dataset. If you want to have your own sign segmentations and classes for each sign, please generate them from the previous work in [this link](https://github.com/MPForte/SGNify).
+
 
 ## About the project
 
