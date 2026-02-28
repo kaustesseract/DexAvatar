@@ -40,7 +40,7 @@ The sign segmentations and the corresponding classes for each sign are already p
 **For Sapiens**
 
 
-Install sapiens lite from the original sapiens [github repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions.  
+Install sapiens lite from the original sapiens [github repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions. Place the checkpoint in the following directory structure.
 
 ~~~
 sapiens/
@@ -67,7 +67,7 @@ bash scripts/bug_fix.sh
 
 ~~~
 
-Please download the following checkpoints from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw).
+Please download the following checkpoints from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw) and place them in the following directory structure.
 ~~~
 checkpoints/
 ├── smpler_x_h32.pth.tar
@@ -75,11 +75,12 @@ checkpoints/
     ├── faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
     └── mmdet_faster_rcnn_r50_fpn_coco.py
 ~~~
-Please download the SignBPoser and SignHPoser from the [google drive](https://drive.google.com/drive/u/2/folders/1GVftC_lTMqdBKm2sFwCHpRtl4DQ4lbtu).
+Please download the SignBPoser and SignHPoser from the [google drive](https://drive.google.com/drive/u/2/folders/1GVftC_lTMqdBKm2sFwCHpRtl4DQ4lbtu) and place them in the following directory structure.
 ~~~
 dexavatar_fitting/
-├── signbposer/
-└── signhposer/
+└── smplifyx/
+    ├── signbposer/
+    └── signhposer/
 ~~~
 
 ## About the project
