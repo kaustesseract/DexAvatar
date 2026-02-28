@@ -20,6 +20,9 @@ Download the signfy frames, from [this link](https://sgnify.is.tue.mpg.de/downlo
 
 The folder structure should be as follows:
 
+
+~~~
+
 data/
 └── images_sgnify/
     ├── sign1/
@@ -33,9 +36,6 @@ data/
     │       ├── Img2.png
     │       └── ...
     └── ...
-~~~
-
-
 
 ~~~
 
