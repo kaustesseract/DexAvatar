@@ -42,8 +42,14 @@ For Sapiens:
 
 Install sapiens lite from the original sapiens github [repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions.  
 
-
-
+~~~
+sapiens/
+└── lite/
+    └── torchscript/
+        └── pose/
+            └── checkpoints/
+                └── sapiens_1b/
+~~~
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
