@@ -49,6 +49,7 @@ sapiens/
         └── pose/
             └── checkpoints/
                 └── sapiens_1b/
+                    └── sapiens_1b_coco_wholebody_best_coco_wholebody_AP_727_torchscript.pt2
 ~~~
 
 **For SMPLer-X**
