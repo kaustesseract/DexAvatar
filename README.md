@@ -18,10 +18,9 @@ conda deactivate
 ~~~
 Download the signfy frames, from [this link](https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. 
 
-The folder structure should be 
+The folder structure should be as follows:
 ~~~
 
-……….
 
 
 ~~~
