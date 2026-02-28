@@ -19,6 +19,20 @@ conda deactivate
 Download the signfy frames, from [this link](https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. 
 
 The folder structure should be as follows:
+
+data/
+└── images_sgnify/
+    ├── sign1/
+    │   └── Images/
+    │       ├── Img1.png
+    │       ├── Img2.png
+    │       └── ...
+    ├── sign2/
+    │   └── Images/
+    │       ├── Img1.png
+    │       ├── Img2.png
+    │       └── ...
+    └── ...
 ~~~
 
 
