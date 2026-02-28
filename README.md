@@ -67,7 +67,7 @@ bash scripts/bug_fix.sh
 
 ~~~
 
-Please download the following checkpoints from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw)
+Please download the following checkpoints from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw).
 ~~~
 checkpoints/
 ├── smpler_x_h32.pth.tar
