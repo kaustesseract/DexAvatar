@@ -63,7 +63,7 @@ cd preprocess/SMPLer-X/main/transformer_utils
 pip install -v -e .
 cd ../../../../
 pip install setuptools==69.5.1 yapf==0.40.1 numpy==1.23.5
-bash scripts/bug_fix.sh
+bash scripts/bug_fix_dexavatar.sh
 
 ~~~
 
