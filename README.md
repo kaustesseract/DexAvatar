@@ -75,6 +75,13 @@ checkpoints/
     ├── faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
     └── mmdet_faster_rcnn_r50_fpn_coco.py
 ~~~
+Please download the SignBPoser and SignHPoser from the [google drive](https://drive.google.com/drive/u/2/folders/1GVftC_lTMqdBKm2sFwCHpRtl4DQ4lbtu).
+~~~
+dexavatar_fitting/
+├── signbposer/
+└── signhposer/
+~~~
+
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
