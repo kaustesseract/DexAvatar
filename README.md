@@ -16,7 +16,7 @@ bash scripts/env_install.sh
 bash scripts/bug_fix_dexavatar.sh
 conda deactivate
 ~~~
-Download the signfy frames, from [this link](https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. For evaluation, also download the smplxgt files.
+Download the signfy frames from [this link](https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. For evaluation, also download the smplxgt files.
 
 The folder structure should be as follows:
 ~~~
