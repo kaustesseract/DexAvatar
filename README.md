@@ -17,6 +17,20 @@ bash scripts/bug_fix_dexavatar.sh
 conda deactivate
 ~~~
 
+~~~
+Download the signfy frames, from (https://sgnify.is.tue.mpg.de/download.php) and place them in the ./data folder. 
+The folder structure should be 
+	data
+images_sgnify
+images
+sign1
+sign2
+……….
+The sign segmentations and the corresponding classes for each sign are already present in the ./data folder for SGNify dataset. If you want to have your own sign segmentations and classes for each sign, please generate them from the previous work https://github.com/MPForte/SGNify
+
+
+~~~
+
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
