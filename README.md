@@ -67,6 +67,14 @@ bash scripts/bug_fix.sh
 
 ~~~
 
+Please download the following checkpoints from the google drive link https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw
+~~~
+checkpoints/
+├── smpler_x_h32.pth.tar
+└── mmdet/
+    ├── faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
+    └── mmdet_faster_rcnn_r50_fpn_coco.py
+~~~
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
