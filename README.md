@@ -1,9 +1,6 @@
 # We will release the pretrained models soon!!
 
-~~~
 
-
-~~~
 
 
 # DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors [WACV 2026]
@@ -11,6 +8,14 @@
 ![My Image](assets/teaser.png)
 
 The official repository of the paper with supplementary: [DexAvatar](https://arxiv.org/abs/2512.21054)
+
+~~~
+conda create -n dexavatar -y python=3.10
+conda activate dexavatar
+bash scripts/env_install.sh
+bash scripts/bug_fix_dexavatar.sh
+conda deactivate
+~~~
 
 ## About the project
 
