@@ -52,7 +52,19 @@ sapiens/
 ~~~
 
 **For SMPLer-X**
+~~~
+conda create -n smpler_x python=3.8 -y
+conda activate smpler_x
+pip install torch==1.12.0+cu116 torchvision==0.13.0+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+pip install mmcv-full==1.7.1 -f https://download.openmmlab.com/mmcv/dist/cu116/torch1.12.0/index.html
+pip install -r preprocess/SMPLer-X/requirements.txt
+cd preprocess/SMPLer-X/main/transformer_utils
+pip install -v -e .
+cd ../../../../
+pip install setuptools==69.5.1 yapf==0.40.1 numpy==1.23.5
+bash scripts/bug_fix.sh
 
+~~~
 
 ## About the project
 
