@@ -37,7 +37,7 @@ data/
 
 The sign segmentations and the corresponding classes for each sign are already present in the ./data folder for SGNify dataset. If you want to have your own sign segmentations and classes for each sign, please generate them from the previous work in [this link](https://github.com/MPForte/SGNify).
 
-For Sapiens:
+**For Sapiens**
 
 
 Install sapiens lite from the original sapiens github [repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions.  
