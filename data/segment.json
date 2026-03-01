@@ -1,0 +1,230 @@
+{
+    "Ablehnen": [
+        149,
+        175
+    ],
+    "Akzeptieren": [
+        124,
+        184
+    ],
+    "Arzt": [
+        166,
+        206
+    ],
+    "AufgebenResignieren": [
+        122,
+        188
+    ],
+    "AusgebenGeldVerschwenden": [
+        120,
+        156
+    ],
+    "Auto": [
+        104,
+        172
+    ],
+    "BesuchenEinmischen": [
+        172,
+        208
+    ],
+    "Blitz": [
+        131,
+        177
+    ],
+    "Blume": [
+        121,
+        161
+    ],
+    "Boese": [
+        127,
+        163
+    ],
+    "BroetchenAufschneiden": [
+        151,
+        245
+    ],
+    "Dort": [
+        171,
+        195
+    ],
+    "Duenn": [
+        156,
+        200
+    ],
+    "Einkaufen": [
+        142,
+        182
+    ],
+    "Einnehmen": [
+        161,
+        221
+    ],
+    "EinstellenJob": [
+        140,
+        206
+    ],
+    "EisGefroren": [
+        182,
+        240
+    ],
+    "Empathie": [
+        136,
+        180
+    ],
+    "Entschuldigung": [
+        129,
+        189
+    ],
+    "FestellenDiagnose": [
+        141,
+        195
+    ],
+    "Frech": [
+        153,
+        201
+    ],
+    "Frieren": [
+        152,
+        188
+    ],
+    "Frisch": [
+        137,
+        187
+    ],
+    "Froh": [
+        126,
+        184
+    ],
+    "Glas": [
+        104,
+        138
+    ],
+    "IdiomPffIgnorieren": [
+        122,
+        152
+    ],
+    "Jahr": [
+        162,
+        240
+    ],
+    "Klar": [
+        122,
+        152
+    ],
+    "Kochen": [
+        135,
+        225
+    ],
+    "Lesen": [
+        153,
+        213
+    ],
+    "LiebBitte": [
+        142,
+        168
+    ],
+    "Luegen": [
+        115,
+        147
+    ],
+    "Muell": [
+        116,
+        144
+    ],
+    "Mutter": [
+        138,
+        184
+    ],
+    "Naehen": [
+        113,
+        199
+    ],
+    "Nebel": [
+        118,
+        194
+    ],
+    "Neu": [
+        108,
+        132
+    ],
+    "Operieren": [
+        199,
+        259
+    ],
+    "Regen": [
+        112,
+        188
+    ],
+    "SauerWuetend": [
+        147,
+        189
+    ],
+    "Schnee": [
+        159,
+        243
+    ],
+    "Schreiben": [
+        121,
+        207
+    ],
+    "Schwach": [
+        138,
+        186
+    ],
+    "Schwer": [
+        157,
+        197
+    ],
+    "Sonne": [
+        148,
+        196
+    ],
+    "Sorry": [
+        144,
+        194
+    ],
+    "SparenSparsam": [
+        133,
+        189
+    ],
+    "Spezial": [
+        125,
+        163
+    ],
+    "Tisch": [
+        143,
+        167
+    ],
+    "Treffen": [
+        132,
+        186
+    ],
+    "Vater": [
+        151,
+        203
+    ],
+    "Verschieden": [
+        142,
+        222
+    ],
+    "VorsichtPassAuf": [
+        147,
+        169
+    ],
+    "Waschen": [
+        131,
+        187
+    ],
+    "Widerspruch": [
+        134,
+        160
+    ],
+    "Ziel": [
+        126,
+        184
+    ],
+    "reparieren": [
+        119,
+        161
+    ]
+}

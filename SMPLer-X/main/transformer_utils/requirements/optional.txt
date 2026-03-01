@@ -1,0 +1,6 @@
+albumentations>=0.3.2 --no-binary qudida,albumentations
+onnx
+poseval@git+https://github.com/svenkreiss/poseval.git
+pyrender
+requests
+trimesh

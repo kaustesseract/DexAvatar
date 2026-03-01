@@ -1,0 +1,120 @@
+dataset: 'openpose'
+joints_to_ign:
+    - -1
+data_folder: "data"
+output_folder: 'smplx_debug'
+prior_folder: 'priors'
+model_folder: 'models'
+result_folder: 'results'
+gender: "neutral"
+model_type: 'smplx'
+# Flag for using the GPU
+use_cuda: True
+float_dtype: "float32"
+use_joints_conf: True
+use_pca: True
+use_hands: True
+use_face: True
+flat_hand_mean: False
+sign_class: '../data/signs.txt'
+sign_segment: '../data/segment.json'
+signhposer_dir: './smplifyx/signhposer'
+signbposer_dir: './smplifyx/signbposer'
+# The number of mixture components for the pose prior
+num_gaussians: 8
+body_prior_type: 'l2'
+left_hand_prior_type: l2
+right_hand_prior_type: l2
+jaw_prior_type: 'l2'
+focal_length: 5000
+num_pca_comps: 12
+# The constant for the robust loss function
+rho: 100
+interpenetration: True
+df_cone_height: 0.0001
+# Upper arms and Spine 2
+# Neck and jaw
+#ign_part_pairs: ["9,16", "9,17", "6,16", "6,17", "1,2", "12,22"]
+penalize_outside: True
+max_collisions: 128
+# LBFGS with line search
+optim_type: 'lbfgsls'
+ftol: 1e-9
+gtol: 1e-9
+lr: 0.5
+# Max number of optimization iterations
+maxiters: 30
+interactive: True
+visualize: False
+# Relative change in loss value [4.04 * 1e2, 4.04 * 1e2, 57.4, 4.78]
+data_weights:
+    - 1.
+    - 1.
+    - 1.
+data_3d_weights:
+    - 0.
+    - 0.
+    - 0.
+data_init_core_weights:
+    - 1200.
+    - 1200.
+    - 1200.
+data_init_noncore_weights:
+    - 1200.
+    - 1200.
+    - 1200.
+data_init_lhand_weights:
+    - 1200. # 600
+    - 1200.
+    - 1200.
+data_init_rhand_weights:
+    - 1200. # 600
+    - 1200.
+    - 1200.
+body_pose_prior_weights:
+    - 4.78e0
+    - 4.78e0
+    - 4.78e0
+coll_loss_weights:
+    - 0.5
+    - 1.0
+    - 1.5 # ori 0.25
+shape_weights:
+    - 0.5e1
+    - 0.5e1
+    - 0.5e1
+expr_weights:
+    - 0
+    - 0.5e1
+    - 0.5e1
+hand_pose_prior_weights:
+    - 0
+    - 4.78
+    - 4.78
+jaw_pose_prior_weights:
+    # Fourth phase
+    - 47.8,478,478
+    # Fifth phase
+    - 47.8,478,478
+    - 47.8,478,478
+body_joints_weights:
+    - 0.5
+    - 1.0
+    - 1.5
+hand_joints_weights:
+    - 0.5
+    - 1.5
+    - 2.5
+face_joints_weights:
+    - 1.0
+    - 1.0
+    - 2.0
+body_biomechanics_loss_weights:
+    - 100.0
+    - 100.0
+    - 100.0
+    
+use_signbposer: True
+
+use_hposer3d: True
+

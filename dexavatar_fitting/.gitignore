@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+.vscode
+Archive
+output
+vis
+build
+tensorboard_3d
+screenshots
+OUTPUT/
+*.png
