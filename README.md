@@ -87,6 +87,14 @@ dexavatar_fitting/
     └── signhposer/
 ~~~
 
+**Fitting**
+
+Run the following command to execute the code:
+
+~~~
+python run_dexavatar.py --input_img_folder DATA_PATH --output_path OUTPUT_FOLDER --fitting_experiment ./dexavatar_fitting
+~~~
+
 ## About the project
 
 This project is carried out at the [Human-Centered AI Lab](https://www.monash.edu/it/hcc/human-centred-ai-lab) in the [Faculty of Information Technology](https://www.monash.edu/it), [Monash University, Melbourne (Clayton), Australia](https://www.monash.edu/).
