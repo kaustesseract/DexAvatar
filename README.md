@@ -35,12 +35,16 @@ The sign segmentations and the corresponding classes for each sign are already p
 **For Sapiens**
 
 
-Install sapiens lite from the original sapiens [github repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions. Place the checkpoint in the following directory structure.
+Install sapiens lite from the original sapiens [github repo](https://github.com/facebookresearch/sapiens/blob/main/lite/README.md). Please create a new environment called sapiens_lite by following their instructions. Please download the checkpoint of rtmpose from [google drive](https://drive.google.com/drive/folders/1lhjRvuUT7p-E4c2zq1sfYgKJayHWPtAK) and place them in the following directory structure.
 
 ~~~
 sapiens/
 └── lite/
     └── torchscript/
+        ├── detector/
+        │   └── checkpoints/
+        │       └── rtmpose/
+        │           └── rtmdet_m_8xb32-100e_coco-obj365-person-235e8209.pth
         └── pose/
             └── checkpoints/
                 └── sapiens_1b/
@@ -62,13 +66,18 @@ bash scripts/bug_fix_dexavatar.sh
 
 ~~~
 
-Please download the following checkpoints from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw) and place them in the following directory structure.
+Please download the following checkpoints and smplx files from the [google drive](https://drive.google.com/drive/u/2/folders/14Ih24pe0fuj6kK1YI03D_w6UAIrsDfFw) and place them in the following directory structure.
 ~~~
-checkpoints/
-├── smpler_x_h32.pth.tar
-└── mmdet/
-    ├── faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
-    └── mmdet_faster_rcnn_r50_fpn_coco.py
+DexAvatar/
+├── checkpoints/
+│   ├── smpler_x_h32.pth.tar
+│   └── mmdet/
+│       ├── faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth
+│       └── mmdet_faster_rcnn_r50_fpn_coco.py
+└── SMPLer-X/
+    └── common/
+        └── utils/
+            └── human_model_files/
 ~~~
 Please download the SignBPoser and SignHPoser from the [google drive](https://drive.google.com/drive/u/2/folders/1GVftC_lTMqdBKm2sFwCHpRtl4DQ4lbtu) and place them in the following directory structure.
 ~~~
