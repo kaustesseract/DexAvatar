@@ -87,7 +87,7 @@ dexavatar_fitting/
     └── signhposer/
 ~~~
 
-**Fitting**
+**Run Fitting Code**
 
 Run the following command to execute the code:
 
