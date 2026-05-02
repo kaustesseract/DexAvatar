@@ -1,4 +1,4 @@
-# DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors [WACV 2026]
+# DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors [WACV 2026 best paper award finalist]
 
 ![My Image](assets/teaser.png)
 
