@@ -4,7 +4,7 @@
 
 ![My Image](assets/poster.png)
 
-The official repository of the paper with supplementary: [DexAvatar](https://arxiv.org/abs/2512.21054)
+The official repository of the paper with supplementary: [DexAvatar](https://openaccess.thecvf.com/content/WACV2026/html/Kundu_DexAvatar_3D_Sign_Language_Reconstruction_with_Hand_and_Body_Pose_WACV_2026_paper.html)
 
 ~~~
 conda create -n dexavatar -y python=3.10
@@ -169,11 +169,13 @@ https://github.com/user-attachments/assets/b327500a-c972-4cfc-a02d-4d18e1632b92
 If you find our work (i.e., the code, the theory/concept, or the dataset) useful for your research or development activities, please consider citing our work as follows:
 
 ~~~
-@article{kundu2025dexavatar,
-  title={DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors},
-  author={Kundu, Kaustubh and Barua, Hrishav Bakul and Robertson-Bell, Lucy and Cai, Zhixi and Stefanov, Kalin},
-  journal={arXiv preprint arXiv:2512.21054},
-  year={2025}
+@InProceedings{Kundu_2026_WACV,
+    author    = {Kundu, Kaustubh and Barua, Hrishav Bakul and Robertson-Bell, Lucy and Cai, Zhixi and Stefanov, Kalin},
+    title     = {DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {March},
+    year      = {2026},
+    pages     = {5842-5852}
 }
 ~~~
 
