@@ -2,6 +2,8 @@
 
 ![My Image](assets/teaser.png)
 
+![My Image](assets/poster.png)
+
 The official repository of the paper with supplementary: [DexAvatar](https://arxiv.org/abs/2512.21054)
 
 ~~~
